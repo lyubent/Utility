@@ -1,0 +1,11 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+
+# Java
+.class
+
+# Generic
+.log
